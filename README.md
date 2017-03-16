@@ -14,7 +14,7 @@ Aria2
 * Enjoy it!<br>
 ### 扩展
 #### Chrome
-[迅雷离线](https://chrome.google.com/webstore/detail/thunderlixianassistant/eehlmkfpnagoieibahhcghphdbjcdmen)<br>
+[迅雷离线](https://chrome.google.com/webstore/detail/thunderlixianassistant/eehlmkfpnagoieibahhcghphdbjcdmen)
 #### Github
 [迅雷离线](https://github.com/binux/ThunderLixianExporter)<br>
 [百度云盘](https://github.com/acgotaku/BaiduExporter)<br>
