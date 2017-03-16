@@ -12,6 +12,12 @@ Aria2
 ![image](https://github.com/yb3616/aria2/blob/master/01.png)<br>
 * 如果想要开启自启动，创建`HideRun.vps`快捷方式到`C:\Users\yourName\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 * Enjoy it!
+### 扩展
+#### Chrome
+[迅雷离线](https://chrome.google.com/webstore/detail/thunderlixianassistant/eehlmkfpnagoieibahhcghphdbjcdmen)<br>
+#### Github
+[迅雷离线](https://github.com/binux/ThunderLixianExporter)
+[百度云盘](https://github.com/acgotaku/BaiduExporter)
 ### 参考链接
 [Aria2 程序下载](https://sourceforge.net/projects/aria2/files/stable/)<br>
 [Aria2 配置参考](https://aria2.github.io/manual/en/html/aria2c.html)<br>
