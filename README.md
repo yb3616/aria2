@@ -7,7 +7,7 @@
 #使用
 * 双击 HideRun.vps 即启动程序（无黑窗）
 * 进入[Aria2 可视界面](http://aria2c.com/)，如下图：
-[image](https://github.com/yb3616/aria2/blob/master/01.png)
+![image](https://github.com/yb3616/aria2/blob/master/01.png)<br>
 #参考链接
 [Aria2 程序下载](https://sourceforge.net/projects/aria2/files/stable/)<br>
 [Aria2 配置参考](https://aria2.github.io/manual/en/html/aria2c.html)<br>
